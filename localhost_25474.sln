@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "client", "http://localhost:25474", "{343D86B9-2291-4203-84B4-A9A2FC97B37C}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_25474"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\dev\nasa\client\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_25474\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_25474"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\dev\nasa\client\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_25474\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "..\..\..\..\..\..\dev\nasa\client\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(CodealikeProperties) = postSolution
+		SolutionGuid = d2bd308f-5e7a-4196-b751-e8fdba4e51a8
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{343D86B9-2291-4203-84B4-A9A2FC97B37C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{343D86B9-2291-4203-84B4-A9A2FC97B37C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
